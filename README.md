@@ -2,12 +2,12 @@
 
 ## Project Overview 
 
-   The purpose of the project was to analyze data about fifteen different schools. Thomas High School was suspected of academic dishonesty in the reading and math scores for ninth greaders. My analysis compared how the scores would have compared if the data was correct.
+   The purpose of the project was to analyze several different schools of varying types. Thomas High School was suspected of academic dishonesty in the reading and math scores for ninth greaders. My analysis shows how the scores would have compared if the data was correct.
 
 
 
 
-* Distrit Summary DataFrame
+* District Summary DataFrame
  
 ![DistrictDataFrame](https://user-images.githubusercontent.com/58860105/133002410-3299162f-a10b-42e6-9d3e-4585d1491cd5.PNG)
 
